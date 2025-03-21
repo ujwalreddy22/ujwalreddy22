@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**ujwalreddy22/ujwalreddy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ujwal Reddy, a Data Analyst and Machine Learning Enthusiast passionate about turning raw data into meaningful insights! 🚀
 
-Here are some ideas to get you started:
+🌱 Current Endeavors
+🎓 Pursuing Data Analytics at Masai School (Jun 2024 - Present) 📚
+🎓 Completed BTech in Engineering 🛠️
+💡 Participating in hackathons — recently built a Machine Learning model to predict airline profitability ✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Python, Data Analysis, Power BI, SQL, MS Excel and Machine Learning — I’d love to share insights and ideas!
+
+🔧 Programming Languages I Know
+Python 🐍, SQL 💾
+
+📊 Data Analysis & Visualization
+Pandas Matplotlib Seaborn Scikit-learn
+📂 Databases
+MySQL
+
+🌱 Let’s Connect!
+Feel free to reach out or collaborate with me:
+
+📫 How to reach me: 
+LinkedIn | ujwalreddy22@gmail.com
+email | ujwalreddyujju22@gmail.com
