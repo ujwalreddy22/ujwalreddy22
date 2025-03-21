@@ -13,13 +13,14 @@ I'm Ujwal Reddy, a Data Analyst and Machine Learning Enthusiast passionate about
 Python 🐍, SQL 💾
 
 ## 📊 Data Analysis & Visualization
-Pandas Matplotlib Seaborn Scikit-learn
-📂 Databases
-MySQL
+- Pandas Matplotlib Seaborn Scikit-learn
+
+## 📂 Databases
+- MySQL
 
 ## 🌱 Let’s Connect!
 Feel free to reach out or collaborate with me:
 
 📫 How to reach me: 
-LinkedIn | ujwalreddy22@gmail.com
-email | ujwalreddyujju22@gmail.com
+- LinkedIn | ujwalreddy22@gmail.com
+- email | ujwalreddyujju22@gmail.com
