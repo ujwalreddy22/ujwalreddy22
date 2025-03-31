@@ -22,5 +22,4 @@ Python 🐍, SQL 💾
 Feel free to reach out or collaborate with me:
 
 📫 How to reach me: 
-- LinkedIn | linkedin.com/in/ujwal-reddy-b47981227
 - email | ujwalreddyujju22@gmail.com
