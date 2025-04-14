@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ujwalreddy22/ujwalreddy22/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ujwal Reddy</h1>
 <h3 align="center">Data Analyst & Machine Learning Enthusiast | Python | SQL | Power BI | Turning raw data into actionable insights 🚀</h3>
 
