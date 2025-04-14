@@ -1,25 +1,23 @@
-## Hi there 👋
 
-I'm Ujwal Reddy, a Data Analyst and Machine Learning Enthusiast passionate about turning raw data into meaningful insights! 🚀
+<h1 align="center">Hi 👋, I'm Ujwal Reddy</h1>
+<h3 align="center">Data Analyst & Machine Learning Enthusiast | Python | SQL | Power BI | Turning raw data into actionable insights 🚀</h3>
 
-## 🌱 Current Endeavors
-🎓 Pursuing Data Analytics at Masai School (Jun 2024 - Present) 📚
-🎓 Completed BTech in Engineering 🛠️
-💡 Participating in hackathons — recently built a Machine Learning model to predict airline profitability ✈️
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-### 💬 Ask me about Python, Data Analysis, Power BI, SQL, MS Excel and Machine Learning — I’d love to share insights and ideas!
+- 💬 Ask me about **Python, SQL, Machine Learning, Data Analytics**
 
-## 🔧 Programming Languages I Know
-Python 🐍, SQL 💾
+- 📫 How to reach me **ujwalreddyujju22@gmail.com**
 
-## 📊 Data Analysis & Visualization
-- Pandas Matplotlib Seaborn Scikit-learn
+- ⚡ Fun fact **When I’m not analyzing data, I’m probably exploring new tools or watching tech videos for inspiration. 🎥💡**
 
-## 📂 Databases
-- MySQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/ujwal-reddy-b47981227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ujwal-reddy-b47981227" height="30" width="40" /></a>
+</p>
 
-## 🌱 Let’s Connect!
-Feel free to reach out or collaborate with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-📫 How to reach me: 
-- email | ujwalreddyujju22@gmail.com
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujwalreddy22&show_icons=true&locale=en&layout=compact" alt="ujwalreddy22" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujwalreddy22&show_icons=true&locale=en" alt="ujwalreddy22" /></p>
